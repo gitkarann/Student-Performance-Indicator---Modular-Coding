@@ -1,5 +1,8 @@
 pandas
 numpy
 seaborn
-
--e . #Triggers setup.py file, connects to setup.py
+matplotlib
+scikit-learn
+catboost
+xgboost
+#-e . #Triggers setup.py file, connects to setup.py
