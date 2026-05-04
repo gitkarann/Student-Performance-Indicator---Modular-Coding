@@ -1,0 +1,5 @@
+pandas
+numpy
+seaborn
+
+-e . #Triggers setup.py file, connects to setup.py
